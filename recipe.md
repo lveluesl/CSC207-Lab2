@@ -9,6 +9,7 @@
 - 1/2 tsp ground cinnamon
 - 2 eggs
 - milk
+- water
 
 ## Instructions:
 1. Preheat the oven to 350°F (175°C).
